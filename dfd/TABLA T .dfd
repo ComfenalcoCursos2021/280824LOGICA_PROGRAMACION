@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+" INGRESE EL VALOR DE LA TABLA DE MULTIPLICAR QUE QUIERE"
+5
+1
+1
+T
+4
+1
+64
+"INGRESE EL NUMERO MAXIMO DE MULTIPLICACIONES PARA VER LA TABLA"
+5
+1
+1
+N
+8
+1
+1
+A
+1
+1
+1
+1
+1
+N
+1
+1
+1
+6
+1
+2
+XX
+5
+T * A
+4
+1
+19
+T," x ",A," = ", XX
+10
+1
